@@ -1,2 +1,3 @@
 # Cloud Network Toolbox
-Target Cloud: Azure Government
+
+Target Cloud: Azure Commercial
